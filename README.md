@@ -2,15 +2,13 @@
 RolesAndUsers-(RoleHierarchy)
 
 My Submission for Zoho Assignment<br />
-For the Assignment i have provided 2 files<br /> 
-- 1. `.ipynb` format file<br />
-to run this file you need jupyter notebook with Python 3 installed or any other ipynb editor
-- 2. `.py` format file<br />
+For the Assignment i have provided File<br /> 
+- 1. `.py` format file<br />
 to run this file you need Python 3 editor
 
-you can choose any one of your choice as a submission<br />
+you can choose the above one for the submission<br />
 
-both file contains the following operations<br />
+File contains the following operations<br />
 <br />
 
 Enter root role name: CEO<br />
