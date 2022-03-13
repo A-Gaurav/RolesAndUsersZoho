@@ -20,8 +20,6 @@ Operations<br />
 * 2.Display Roles<br />
 * 3.Delete Role<br />
 * 4.Add User<br />
-* 5.Delete User<br />
-* 6.Display Users<br />
-* 7.Quit<br />
+* 5.Display Users<br />
 <br />
 Operation to be performed :<br />
